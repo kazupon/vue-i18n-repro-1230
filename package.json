@@ -1,0 +1,20 @@
+{
+  "name": "vue-i18n-validate",
+  "version": "1.0.0",
+  "description": "",
+  "author": "Nuxt.js Team",
+  "private": true,
+  "scripts": {
+    "dev": "MINIMAL=1 nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "nuxt": "^2.15.0",
+    "nuxt-i18n": "6.20.4",
+    "vue-i18n": "8.24.2"
+  },
+  "keywords": []
+}
